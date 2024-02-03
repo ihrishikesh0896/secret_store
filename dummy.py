@@ -5,7 +5,7 @@ email = "user@example.com"
 password = "SuperSecretPassword123!"
 
 # Hardcoded API token (risk of exposure!)
-api_token = "123456789abcdef123456789"
+api_token = "123456789abcdef123456789aaaaasss"
 
 # Hardcoded private key (major security vulnerability!)
 private_key = """-----BEGIN RSA PRIVATE KEY-----
