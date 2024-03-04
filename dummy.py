@@ -33,6 +33,8 @@ snyk_SECRET_PLACEHOLDER_4cb902c291f24c45943a23e5782f8dce
 
 snyk_token = 'my_name_is_snyk....>-<'
 
+token = 'https://hooks.slack.com/services/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a'
+
 # Main function to run the dummy function
 if __name__ == "__main__":
     connect_to_service()
