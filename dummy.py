@@ -31,6 +31,8 @@ def connect_to_service():
 
 snyk_SECRET_PLACEHOLDER_4cb902c291f24c45943a23e5782f8dce
 
+snyk = 'my_name_is_snyk....>-<'
+
 # Main function to run the dummy function
 if __name__ == "__main__":
     connect_to_service()
