@@ -8,8 +8,7 @@ SECRET_PLACEHOLDER_6415920a263149df82e8f5a700c8954a
 api_SECRET_PLACEHOLDER_a1a7181e0c8d40289b636e47e6d236ce
 
 # Hardcoded private key (major security vulnerability!)
-private_key = """SECRET_PLACEHOLDER_fa75c8994c0741f9b4426d262636e3ac
-MIICXgIBAAKBgQCqGKukO1De7Zhrt4Ga3F0skO1De7Zhrt4Ga3F0skO1De7Zhrt4
+private_SECRET_PLACEHOLDER_3f974a561a264662a90a209e000afa27MIICXgIBAAKBgQCqGKukO1De7Zhrt4Ga3F0skO1De7Zhrt4Ga3F0skO1De7Zhrt4
 Ga3F0skO1De7Zhrt4Ga3F0skO1De7Zhrt4Ga3F0skO1De7Zhrt4Ga3F0skO1De7Z
 hrt4Ga3F0skO1De7Zhrt4Ga3F0skO1De7Zhrt4Ga3F0skO1De7Zhrt4Ga3F0sIDAQABAoGB
 AIhlx5qo9Vqo9VbUMZjFmDZjFjUMZjFjUMZjFjUMZjFjUMZjFjUMZjFjUMZjFjUM
@@ -19,7 +18,7 @@ FjUMZjFjUMZjFjUMZjFjUMZjFjUMZjFjUMZjFjUMZjFjUMZjFjUMZjFjUMZjFjUM
 -----END RSA PRIVATE KEY-----"""
 
 # Hardcoded OAuth token (should be securely stored!)
-oauth_token = "ghp_19C69I1Ghg5OyR5J4T75DB9S7ReAVBfGh"
+oSECRET_PLACEHOLDER_4c02b8992eb94769aabe6329383bb572
 
 # Dummy function that uses the sensitive information (for illustrative purposes)
 def connect_to_service():
