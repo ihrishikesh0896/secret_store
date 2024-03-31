@@ -4,8 +4,8 @@ app = Flask(__name__)
 
 # Pseudo sensitive data
 DATABASE_URI = 'mysql://user:SuperSecretPassword123@localhost/mydatabase'
-API_KEY = 'ABC123FAKEAPIKEY'
-ADMIN_PASSWORD = 'admin123'
+API_KEY = 'uuid_5237b0bd480548059ff529ebfc9216fb'
+uuid_718e09d45d0343beb627a48e0dffc1de = 'admin123'
 
 @app.route('/')
 def home():
